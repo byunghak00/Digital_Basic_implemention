@@ -3,10 +3,10 @@
 
 ## 🍕 구성은 다음과 같아요
 1. **RTL Design**
-* 
+* VerillogHDL을 이용하여 Combinational/Sequantial Logic을 설계합니다
 
 2. **Functional verification**
-*
+*Xcelium Simulation를 사용하여 RTL 로직을 검증합니다
 
 3. **Synthesis**
 * Gents를 사용하여 RTl코드를 Gate Level Netlist로 합성합니다
